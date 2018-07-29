@@ -1,13 +1,1 @@
-# gregory
-# gregory
-# poker
-# poker
-# poker
-# poker
-# poker
-# poker
-# poker
-# poker
-# poker
-# poker
-# poker
+put files to server, require: php, apache
